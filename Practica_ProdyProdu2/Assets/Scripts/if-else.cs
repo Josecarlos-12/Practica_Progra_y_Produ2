@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Parametro : MonoBehaviour
+public class Param : MonoBehaviour
 {
     public interface myNumber= 10;
 
