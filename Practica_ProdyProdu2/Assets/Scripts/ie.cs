@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Param : MonoBehaviour
+public class ie : MonoBehaviour
 {
-    public interface myNumber= 10;
+    public int myNumber = 10;
 
     void Start()
     {
